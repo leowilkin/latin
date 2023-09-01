@@ -1,0 +1,21 @@
+{
+  "name": "latin",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.8.1",
+    "astro": "^3.0.6",
+    "sharp": "^0.32.5"
+  },
+  "description": "``` npm create astro@latest -- --template starlight ```",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
